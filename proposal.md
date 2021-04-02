@@ -2,11 +2,11 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Python Expense Tracker
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A dashboard that allows you to view your monthly expenses to give the user a better overview of how they spend their money. It will accept monthly reports from money transactions, including credit card reports, bank accounts, Venmo transactions, etc.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -14,11 +14,11 @@ TODO
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+N/A
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+N/A
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
