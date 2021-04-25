@@ -7,14 +7,14 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-# importing and reading my accounts
+# ** importing and reading my accounts
 spend = pd.read_csv("accountActivityExport_spend.csv")
 reserve = pd.read_csv("accountActivityExport_reserve.csv")
 growth = pd.read_csv("accountActivityExport_growth.csv")
 discover = pd.read_csv("accountActivityExport_Discover.csv")
 venmo = pd.read_csv("venmo_statement.csv")
 
-# removing transfers between my accounts (including credit card payments)
+# ** removing transfers between my accounts (including credit card payments)
 spend = spend[spend.Category != "Transfers"]
 reserve = reserve[reserve.Description != "ONLINE TRANSFER TO        XXXXX4454 "]
 reserve = reserve[reserve.Description != "ONLINE TRANSFER TO        XXXXX4438 "]
