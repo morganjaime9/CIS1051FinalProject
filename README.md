@@ -1,6 +1,6 @@
 # CIS1051FinalProject
 
-Video URL: 
+Video URL: https://www.youtube.com/watch?v=4vNDplT-4rM
 
 Code citation: https://towardsdatascience.com/manage-your-money-with-python-707579202203
 
